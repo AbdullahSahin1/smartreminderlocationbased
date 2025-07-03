@@ -31,7 +31,7 @@
         <!-- Google Maps API anahtarı için meta-data -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY_HERE" />
+            android:value="AIzaSyCQMVc_HGeEXBABzkQn8U-xuxy2kMbl1Fw" />
     </application>
 
 </manifest>
